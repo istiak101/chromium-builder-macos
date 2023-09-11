@@ -1,26 +1,5 @@
 name: Build macOS binaries of Ungoogled Chromium
-on: 
-  push:
-    paths:
-      - 'patches/**'
-      - 'downloads.ini'
-      - 'revision.txt'
-      - 'flags.macos.gn'
-      - '!build.sh'
-      - '!README.md'
-      - '!LICENSE'
-      - '!devutils/**'
-      - '.github/scripts/force_build.txt'
-  pull_request:
-    paths:
-      - 'patches/**'
-      - 'downloads.ini'
-      - 'revision.txt'
-      - 'flags.macos.gn'
-      - '!build.sh'
-      - '!README.md'
-      - '!LICENSE'
-      - '!devutils/**'
+on: [push]
 # alternatively use on.push.branches: release/*
 
 jobs:
