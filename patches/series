@@ -1,0 +1,13 @@
+chromium-build-system/macos/disable-symbol-order-verification.patch
+chromium-build-system/macos/disable-clang-version-check.patch
+chromium-build-system/macos/disable-crashpad-handler.patch
+chromium-build-system/macos/fix-visibility.patch
+chromium-build-system/macos/fix-dsymutil.patch
+chromium-build-system/macos/fix-clang-format-path.patch
+chromium-build-system/macos/fix-runTsc-log-info.patch
+chromium-build-system/fix-llvm-15-build.patch
+chromium-build-system/fix-missing-iterator-subtypes.patch
+chromium-build-system/fix-node-path.patch
+
+baraqah/baraqah-116-branding-116.0.5845.179.patch
+baraqah/baraqah-116-custom-baraqah-url-116.0.5845.179.patch
