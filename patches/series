@@ -9,5 +9,5 @@ chromium-build-system/fix-llvm-15-build.patch
 chromium-build-system/fix-missing-iterator-subtypes.patch
 chromium-build-system/fix-node-path.patch
 
-baraqah/macos/baraqah-116-branding-116.0.5845.179.patch
-baraqah/macos/baraqah-116-custom-baraqah-url-116.0.5845.179.patch
+baraqah/macos/baraqah-116-branding-116.0.5845.187.patch
+baraqah/macos/baraqah-116-custom-baraqah-url-116.0.5845.187.patch
